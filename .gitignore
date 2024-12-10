@@ -1,0 +1,7 @@
+env/
+
+cookies.json
+
+cardiffnlp/
+
+__pycache__/
